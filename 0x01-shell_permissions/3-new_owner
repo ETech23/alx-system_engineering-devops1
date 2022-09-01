@@ -1,2 +1,2 @@
 #!/bin/bash
-sodu chown betty hello
+sodu chown betty file
