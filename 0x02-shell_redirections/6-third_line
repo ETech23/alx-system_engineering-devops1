@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -3 /0x02-shell_redirections/iacta
+cat ./iacta | tail --lines=+3 | head -1
